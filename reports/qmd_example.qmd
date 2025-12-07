@@ -5,6 +5,13 @@ format:
   html:
     toc: true
     toc-depth: 3
+    code-links:
+      - text: Published Report
+        icon: file-earmark-pdf
+        href: https://gene-008.github.io/assignment3-Python/reports/qmd_example.html
+      - text: GitHub Repo
+        icon: github
+        href: https://github.com/Gene-008/assignment3-Python
   pdf:
     toc: true
     toc-depth: 3
@@ -20,7 +27,6 @@ import pandas as pd
 from IPython.display import Markdown, display
 from tabulate import tabulate
 ```
-
 # Aim
 
 This project explores the historical population of horses in Canada 
