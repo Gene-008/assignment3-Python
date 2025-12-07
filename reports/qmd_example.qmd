@@ -27,6 +27,10 @@ import pandas as pd
 from IPython.display import Markdown, display
 from tabulate import tabulate
 ```
+**Project Links:**
+
+* [GitHub Repository](https://github.com/Gene-008/assignment3-Python)
+* [Published HTML Report](https://gene-008.github.io/assignment3-Python/reports/qmd_example.html)
 # Aim
 
 This project explores the historical population of horses in Canada 

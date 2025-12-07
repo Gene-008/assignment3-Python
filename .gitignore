@@ -6,3 +6,4 @@
 **.local/
 **.npm/
 /.quarto/
+.ssh/
