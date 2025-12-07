@@ -30,7 +30,8 @@ from tabulate import tabulate
 **Project Links:**
 
 * [GitHub Repository](https://github.com/Gene-008/assignment3-Python)
-* [Published HTML Report](https://gene-008.github.io/assignment3-Python/reports/qmd_example.html)
+* [Published HTML Report](https://gene-008.github.io/assignment3-Python/reports/qmd_example.html) <br>
+
 # Aim
 
 This project explores the historical population of horses in Canada 
